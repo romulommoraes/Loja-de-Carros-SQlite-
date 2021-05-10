@@ -1,0 +1,72 @@
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).exe
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).deps.json
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).runtimeconfig.json
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).runtimeconfig.dev.json
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\ref\LojadeCarros(Gui).dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).pdb
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).csprojAssemblyReference.cache
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros_Gui_.Form1.resources
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).csproj.GenerateResource.cache
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).AssemblyInfoInputs.cache
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).AssemblyInfo.cs
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).csproj.CoreCompileInputs.cache
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\ref\LojadeCarros(Gui).dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).pdb
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).genruntimeconfig.cache
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros_Gui_.Form2.resources
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).exe
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).deps.json
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).runtimeconfig.json
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).runtimeconfig.dev.json
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\bin\Debug\net5.0-windows\ref\LojadeCarros(Gui).dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).pdb
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).csprojAssemblyReference.cache
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros_Gui_.Form1.resources
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros_Gui_.Form2.resources
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).csproj.GenerateResource.cache
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).AssemblyInfoInputs.cache
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).AssemblyInfo.cs
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).csproj.CoreCompileInputs.cache
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\obj\Debug\net5.0-windows\ref\LojadeCarros(Gui).dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).pdb
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)-SQlite\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).genruntimeconfig.cache
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).exe
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).deps.json
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).runtimeconfig.json
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).runtimeconfig.dev.json
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\ref\LojadeCarros(Gui).dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\LojadeCarros(Gui).pdb
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).csprojAssemblyReference.cache
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros_Gui_.Form1.resources
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros_Gui_.Form2.resources
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).csproj.GenerateResource.cache
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).AssemblyInfoInputs.cache
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).AssemblyInfo.cs
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).csproj.CoreCompileInputs.cache
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).csproj.CopyComplete
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\ref\LojadeCarros(Gui).dll
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).pdb
+C:\Users\Rômulo Maciel\source\repos\LojadeCarros(Gui)(pra usar sqlite)\LojadeCarros(Gui)\obj\Debug\net5.0-windows\LojadeCarros(Gui).genruntimeconfig.cache
